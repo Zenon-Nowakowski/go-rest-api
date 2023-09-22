@@ -8,4 +8,4 @@ Currently the app is capable of temporarly storing input information and returni
 - {{localhost}}/books
 ### To get a book by specific ID: 
 - {{localhost}}/books/(REPLACE WITH ID)
-#### example: {{localhost}}/books/3 
+- example: {{localhost}}/books/3 
